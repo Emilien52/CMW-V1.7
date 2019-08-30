@@ -5,7 +5,7 @@ CraftMyWebsite est un CMS Minecraft 100% gratuit proposant des fonctionnalités 
 -   Boutique avec support MCGPass/Dedipass/Paypal et des rangs temporaires
 -   Système de news
 -   Votes avec récompenses
--   Gestion multi-serveur grâce à JSONApi
+-   Gestion multi-serveur grâce à JSONApi et RCON
 -   Support
 -   Forum
 -   Et pleins d'autres !
@@ -16,7 +16,7 @@ Une démo est disponible sur notre [site internet](http://demo.craftmywebsite.fr
 
 Retrouvez nous sur :
 
--   Discord: https://discord.gg/tscRZCU
+-   Discord: https://discord.gg/wMVAeug
 -   Forum: https://craftmywebsite.fr/forum/
 -   Contact: https://craftmywebsite.fr/contactez/nous/
 
@@ -27,12 +27,12 @@ Si toutefois vous vous acharnez à vouloir utiliser ce répo comme source pour v
 
 ### Nos partenaires
 
--   AllsHeberg: Hébergeur web
+-   WebStrator: Hébergeur web
 -   MineStrator: Hébergeur de serveurs Minecraft
 -   Serveurs Minecraft: Référencement de serveurs Minecraft
 
 ### Copyright
 
-CraftMyWebsite de [Vladimir.K](http://craftmywebsite.fr/cmw-lastest-build.php) est mis à disposition selon les termes de la [licence Creative Commons Attribution - Pas d'Utilisation Commerciale - Pas de Modification 4.0 International](http://creativecommons.org/licenses/by-nc-nd/4.0/). Fondé(e) sur une œuvre à [https://craftmywebsite.fr/cmw-lastest-build.php](http://craftmywebsite.fr/cmw-lastest-build.php). Les autorisations au-delà du champ de cette licence peuvent être obtenues à [https://craftmywebsite.fr/cgu](http://craftmywebsite.fr/cgu.php). 
+CraftMyWebsite de [Vladimir.K](http://craftmywebsite.fr/cmw-lastest-build.php) est mis à disposition selon les termes de la [licence Creative Commons Attribution - Pas d'Utilisation Commerciale - Pas de Modification 4.0 International](http://creativecommons.org/licenses/by-nc-nd/4.0/). Fondé(e) sur une œuvre à [https://craftmywebsite.fr/cmw-lastest-build.php](http://craftmywebsite.fr/cmw-lastest-build.php). Les autorisations au-delà du champ de cette licence peuvent être obtenues à [https://craftmywebsite.fr/cgu](http://craftmywebsite.fr/cgu). 
 
 Copyright © CraftMyWebsite 2014-2018 
